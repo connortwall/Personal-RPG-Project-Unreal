@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large Textures
+/Content/BlackAlder/Textures/
+find . -size +1M | cat >> .gitignore
