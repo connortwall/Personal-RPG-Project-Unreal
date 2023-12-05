@@ -4,3 +4,6 @@ A reconstruction of my Unity RPG project using Unreal Engine 5.2
 - Combat AI, Enemy Detection AI
 - Player Locomotion
 - Unreal Chaos System
+
+C++ code is in:
+Content/Source/
