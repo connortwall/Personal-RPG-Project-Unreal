@@ -5,5 +5,5 @@ A reconstruction of my Unity RPG project using Unreal Engine 5.2
 - Player Locomotion
 - Unreal Chaos System
 
-C++ code is in:
-Content/Source/
+C++ source code is in:
+/Source/OpenWorldRPG/
